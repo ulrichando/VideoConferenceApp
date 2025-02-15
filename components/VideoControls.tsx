@@ -1,6 +1,6 @@
 import React from "react";
 import { StyleSheet, View, TouchableOpacity } from "react-native";
-import Icon from "react-native-vector-icons/MaterialIcons";
+import Icon from "react-native-vector-icons/MaterialIcons"; // Importing MaterialIcons
 import { Colors } from "../constants/Colors";
 import useColorScheme from "../hooks/useColorScheme";
 
